@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some few observations by the Committee of Estates of Parliament upon the declaration of the general assembly of the last of July.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60795</idno>
+            <idno type="STC">Wing S4504</idno>
+            <idno type="STC">ESTC R19685</idno>
+            <idno type="EEBO-CITATION">11765658</idno>
+            <idno type="OCLC">ocm 11765658</idno>
+            <idno type="VID">48721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48721)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 548:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some few observations by the Committee of Estates of Parliament upon the declaration of the general assembly of the last of July.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler ...,</publisher>
+                  <pubPlace>Edinbvrgh :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland. --  General Assembly.</term>
+               <term>Scotland. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48721:1"/>
+            <pb facs="tcp:48721:1" rendition="simple:additions"/>
+            <p>SOME FEW OBSERVATIONS BY THE COMMITTEE of ESTATES OF PARLIAMENT, UPON THE DECLARATION OF THE GENERAL ASSEMBLY Of the laſt of <hi>July.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie. 1648.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:48721:2"/>
+            <opener>
+               <dateline>
+                  <hi>EDINBURGH,</hi> 
+                  <date>
+                     <hi>10.</hi> Auguſt, <hi>1648.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THE Committee of Eſtates Ordains and Commands this Paper of their Obſervations upon the Declaration of the Generall Aſſembly to be printed and publi<g ref="char:EOLhyphen"/>ſhed: And do ſeriouſly recommend to, and require the Committees of War in the ſeverall Shires, and the Magiſtrates within Burgh to take exact courſe, that with all diligence, af<g ref="char:EOLhyphen"/>ter it come to their hands, it may be read up<g ref="char:EOLhyphen"/>on the Lords Day at the Pariſh Kirk doors, in the hearing of the Pariſhoners: And that ſome of each Committee and Magiſtrates be appointed to ſee it done: And publiſhed at all other places needfull, within their ſeve<g ref="char:EOLhyphen"/>rall Bounds and Juriſdictions.</p>
+            <closer>
+               <signed>ARCH. PRIMEROSE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48721:2"/>
+            <head>Some few OBSERVATIONS made by the Committee of Eſtates of Parliament: <hi>Upon the DECLARATION of the Generall Aſ<g ref="char:EOLhyphen"/>ſembly of the laſt of</hi> June, 1648.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lbeit the Offers of the Commmittee of Eſtates, for ſecuring of Religion, hath not been accepted by the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly (at the ſuggeſtion of ſome diſ-affected Perſons) Yet the Committee Reſolves never to leave Perſuing of their Duties, for Preſer<g ref="char:EOLhyphen"/>ving the ſame according to the Solemn League and
+<pb n="2" facs="tcp:48721:3"/>Covenant. But leaſt by their filence they ſhould ſeem to be ſatiſfyed with the Papers preſented to them by the Aſſembly the laſt day of <hi>July,</hi> Entituled, A DECLARATION, &amp;c. of the 21. of <hi>July.</hi> They thought fit to return for the preſent a very few ſhort OBSERVATIONS thereupon, Intending to emit a large Narrative of the Reaſons and neceſſities of the preſent Engagement of this Kingdom in a War againſt the Sectaries in <hi>England,</hi> wherein, as they will Vin<g ref="char:EOLhyphen"/>dicate themſelves from encroaching in any ſort upon the Liberties of the Kirk, So they reſolve to aſſert and maintain the juſt power of the Civil Magiſtrate againſt all uſurpation whatſoever: All the Arguments brought to prove the Sinfulneſſe and Unlawfulneſſe of this En<g ref="char:EOLhyphen"/>gagement, are reduced in the Aſſemblies Declaration to four Claſſes. 1. <hi>From theſe places of holy Scripture, wherein the Wars of Gods people are called VVars of the Lord, and that all things ſhould be done to the Glory of God.</hi> 2. <hi>From theſe places, which diſcharge Aſſociation with the</hi> Canaanites, <hi>Idolaters, and wicked men.</hi> 3. <hi>From theſe places, wherein we have the example of the people of God ſeeking reparation by Treaty, before they engaged in a War.</hi> 4. <hi>From theſe places wherein Breach of Covenant is condemned for a great Sinne procuring Nationall Judge<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p>To the firſt we Anſwer, by acknowledging and be<g ref="char:EOLhyphen"/>leeving that all the Wars of the People of God, ſhould be the Wars of God, undertaken at the Command of theſe who have lawfull authority under God, as were the Wars by the command of <hi>Moſes, Joſhua,</hi> the <hi>Judges</hi> and Kings of <hi>Judah,</hi> And as undertaken by warrant from Gods Vicegerents, So for an honeſt Cauſe, for the glory of God; But where as it is aſſu<g ref="char:EOLhyphen"/>med
+<pb n="3" facs="tcp:48721:3"/>that this Engagement is not ſuch, we deny it, Becauſe it hath the warrant of lawfull Authority, The Eſtates of Parliament, And the Cauſe being honeſt to do a Duty commanded of God to our Prince, God is glorified by doing that Duty, The releeving of our King out of Priſon, is a duty, <hi>John</hi> 18, 36. <hi>If my King<g ref="char:EOLhyphen"/>dom,</hi> ſayes our Lord, <hi>were of this VVorld, then would my Servants fight that I ſhould not be delivered to the</hi> Jews. Our Lord ſuppones it was a common Dutie, that Sub<g ref="char:EOLhyphen"/>jects ſhould fight to preveen the captivity of their King, And if a Warre be lawfull to preveen captivity, Is it not lawfull to deliver him from that baſe capti<g ref="char:EOLhyphen"/>vity, are we leſſe obliged in dutie to our Native Prince, then <hi>Abraham</hi> to his kinſman <hi>Lot?</hi> who engaged in a Warre for reſcuing him, notwithſtanding <hi>Lot</hi> had aſ<g ref="char:EOLhyphen"/>ſociated himſelf in Warre with wicked men, The <hi>Sodo<g ref="char:EOLhyphen"/>mites, Gen.</hi> 14.? Are we leſſe obliged then <hi>David</hi> and his aſſociates to their captive wives, who engaged in Warre for their freedom, 1. <hi>Sam.</hi> 30.?</p>
+            <p>As for the duty of honour, for performance where<g ref="char:EOLhyphen"/>of we have engaged our ſelves; We beleeve it is a du<g ref="char:EOLhyphen"/>tie commanded by God himſelf in the fifth Command, <hi>Pro.</hi> 24.22.1. Ep. <hi>Pet.</hi> 2.16.17. We are forbidden to uſe our Chriſtian liberty as a Clock to maliciouſ<g ref="char:EOLhyphen"/>neſſe, for withholding or withdrawing Dutie. Yea <hi>Pagans</hi> by the light of Nature, reading the law of Na<g ref="char:EOLhyphen"/>ture, which is from the God of Nature, do uſe all ho<g ref="char:EOLhyphen"/>nour to their Kings, Yea, holy <hi>Samuel</hi> undoubtedly zealous of Gods Honour, notwithſtanding he knew certainly by Divine Revelation, that God had re<g ref="char:EOLhyphen"/>jected <hi>Saul,</hi> yet honoured him before the People, 1, <hi>Sam.</hi> 15.30.31.</p>
+            <p>
+               <pb n="4" facs="tcp:48721:4"/>
+To the ſecond Claſſe of Arguments; againſt aſſo<g ref="char:EOLhyphen"/>ciations with Malignants, We anſwer, 1. Theſe places wherein aſſociation with the <hi>Canaanites</hi> is forbidden, proves not the point, for they were deſtinated to de<g ref="char:EOLhyphen"/>ſtruction, <hi>Deut.</hi> 7.2. that Gods People, might have that Countrey promiſed of old for their peculiar ha<g ref="char:EOLhyphen"/>bitation: We hope none pretend ſuch a warrant, for deſtroying all who differ in Religion from them, That they alone may dwell in the Land, or if any be of that judgement, Let him ſpeak it out in time. 2. It would be conſidered, that confidence and truſt in theſe world<g ref="char:EOLhyphen"/>ly helps are forbidden; Did not the Generally Aſ<g ref="char:EOLhyphen"/>ſembly in the year 1585. ſupplicate King <hi>James</hi> of happy Memory (as is mentioned in the Aſſembly 1642) to command his Ambaſſador, then going to <hi>England,</hi> to deal with the Queen, that there might be a bond of Union betwixt them and other Chriſtian Princes profeſſing the true Religion, for the defence thereof, againſt the perſecution of Papiſts joyned in League, by the bloody Decree of <hi>Trent?</hi> And who doubts but many of theſe proteſtant Princes were <hi>Lutherians:</hi> Did our fathers wrong in taking help from <hi>England</hi> then under Prelates; and uſing the Service Book, To withſtand the French Perſecution? 3. There is a great difference in joyning with Strangers, idolaters, as the Kings of <hi>Judah</hi> ſometimes did, And Subjects ob<g ref="char:EOLhyphen"/>liged in a common Dutie living under one King. 4. We declare (as may be ſeen in our Declaration To this Kingdom, and in our Anſwer to the Petitions of Presbyteries and Synods) that we will aſſociate with none, but ſuch as will engage themſelves, to be faith<g ref="char:EOLhyphen"/>full in the Ends of the Covenant, and who do ſo can<g ref="char:EOLhyphen"/>not
+<pb n="5" facs="tcp:48721:4"/>be reputed Malignants, that is, Popiſh and Pre<g ref="char:EOLhyphen"/>laticall, unleſſe they be falſe Hypocrites: And if at any time they manifeſt their falſhood by their works, in ob<g ref="char:EOLhyphen"/>ſtructing or oppoſing the Ends of the Covenant, we have declared that through Gods aſſiſtance we ſhall do our uttermoſt endeavours to ſuppreſſe them.</p>
+            <p>To the third, becauſe there hath been no Treaty, That is denied, Becauſe our Commiſsioners did for a long time repreſent wrongs, and ſeek reparation, as is men<g ref="char:EOLhyphen"/>tioned in their Papers given into the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and approven in this Parliament, alſo a Meſſenger with our juſt and neceſſary Demands, was ſent to the Houſes in <hi>April</hi> laſt; yet, by the prevalency of Sectaries, no ſatisfaction is returned thereunto.</p>
+            <p>To the fourth Claſſe of Arguments, taken from the Breach of Covenant; We grant that breach of Cove<g ref="char:EOLhyphen"/>nant is a great ſin; and pains needs not be taken for pro<g ref="char:EOLhyphen"/>ving that which none denies; But that by this Engage<g ref="char:EOLhyphen"/>ment, as it is repreſented in our Declaration, The Cove<g ref="char:EOLhyphen"/>nant is broken in all the Articles thereof, Is more then can be well proven: The breach of the firſt Article, is inſtanced by an induction of three particulars, quarrel<g ref="char:EOLhyphen"/>ling the doctrine of Miniſters, the diſorders committed by the Souldiery in time of Divine Worſhip, and the not anſwering the Petitions of Presbyteries and Sy<g ref="char:EOLhyphen"/>nods; Therefore we maintain, not the Doctrine, Wor<g ref="char:EOLhyphen"/>ſhip and Government of the Church.</p>
+            <p>To the 1. Inſtance, we anſwer, neither Parliament nor Committee of Eſtates hath quarrelled any Mini<g ref="char:EOLhyphen"/>ſters doctrine, and though they ſhould quarrel any in an orderly way for ſeditious doctrine, were it any breach of Covenant? for we are not bound to maintain any
+<pb n="6" facs="tcp:48721:5"/>ſuch doctrine, but rather to cenſure according to ſeveral Laws of this Kingdom the Abetters thereof, as diſtur<g ref="char:EOLhyphen"/>bers of the publique peace? Some Miniſters have been conveened before us, and challenged for ſeditious pra<g ref="char:EOLhyphen"/>ctiſes; if any quarrell this, we conceive they break Covenant, which bindes them to maintain, and not to quarrell the undoubted Priviledges of Parliament, to judge by themſelves or their Deputies, all perſons in cauſes Civill, or Criminall: To that, we ſay no more, but it is, and ſhall be, our hearts deſire, that all the Mini<g ref="char:EOLhyphen"/>ſters of the Land may be alwayes able to ſay as <hi>Paul, Act.</hi> 24 12. <hi>They found me not raiſing up the people, neither in the Synagogue, nor in the City.</hi>
+            </p>
+            <p>To the ſecond inſtance, We anſwer, Diſorders in time of Divine worſhip, are not owned by us: When they are repreſented to us, and duely inſtructed to have been ſuch, we ſhall, according to juſtice cenſure them. Diſ<g ref="char:EOLhyphen"/>orders committed by ſome in <hi>England,</hi> and lately in this Kingdom, were never uſed as an Argument to prove the unlawfulneſſe of theſe engagements: And we wiſh, there had been the like ſearch in former times, who knowes, but it might have preveened inſolencies and diſorders at this time?</p>
+            <p>To the third, we anſwer, We did take pains, and uſed all lawfull means, to give ſatisfaction to their Deſires: It ſeems ſtrange to us, they ſhould be both Petitioners, and Judges of their own Petitions; Yea, ſuppoſe, That For an uncontroverted Truth, which is in queſtion, to wit, That all your deſires were juſt: If our not grant<g ref="char:EOLhyphen"/>ing all your deſires, infer We maintain not the Govern<g ref="char:EOLhyphen"/>ment of the Church: May not we with as much rea<g ref="char:EOLhyphen"/>ſon, in our ſenſe, conclude, That the refuſing of the juſt
+<pb n="7" facs="tcp:48721:5"/>deſire of the Committee of Eſtates, given in by the Earl of <hi>Glencairn,</hi> for granting us the ſpace but of two or three dayes, to propone our juſt exceptions, againſt the proceedings of the late Commiſſion of the Kirk, before that the Aſſembly ſhould approve their proceedings; As alſo the refuſing of that pious and lawfull deſire of the Army for Miniſters: May we not conclude, That this is not a courſe to maintain the juſt Authority of our Civill Government?</p>
+            <p>Wee wonder, how any can carp at the limitation to maintain Doctrine, &amp;c. as it is eſtabliſhed by Law, un<g ref="char:EOLhyphen"/>leſſe ſome would have us to maintain ſome innovations in Doctrine, Worſhip or Government, though not yet eſtabliſhed by Law: It appears alſo not to conſiſt with ordinary charity, to carpe at our harmleſſe acknow<g ref="char:EOLhyphen"/>ledgement of the Kings goodneſſe in eſtabliſhing the Work of Reformation here; yet we ſay far leſſe then hath been acknowledged by the Aſſembly 1639 in their Letter of thanks to the Kings Majeſtie.</p>
+            <p>To the inſtances of breach in their ſecond Article of the Covenant: We anſwer to the firſt: That the de<g ref="char:EOLhyphen"/>ſire of the Queens return can be no breach of the Co<g ref="char:EOLhyphen"/>venant, unleſſe the Covenant obliged us to remove the Queen, and our Covenant diſſolves not the Covenant of Marriage: Withall Wee wiſh, there may be no grea<g ref="char:EOLhyphen"/>ter encouragements given to Sectaries to expect their long laboured for <hi>Toleration</hi> then Wee have, or ever ſhal give either to the Popiſh or Prelatical party to hope for favour or connivence from us to their Idolatry and Superſtition.</p>
+            <p>To the ſecond Inſtance for breach of the ſecond Ar<g ref="char:EOLhyphen"/>ticle: We deſire our Anſwer to the 1. Argument may
+<pb n="8" facs="tcp:48721:6"/>be repeated. 2. Doing of a neceſſary and timeous duty to our King, is a duty acceptable to God who com<g ref="char:EOLhyphen"/>mands it, and will be a mean bleſſed of God for encli<g ref="char:EOLhyphen"/>ning the Kings heart (from the ſenſe of our loyall En<g ref="char:EOLhyphen"/>deavours) to his duty for ſecuring Religion; Theſe were our old Principles according to Gods Word from the which by his Grace, We ſhall not depart; To wit, That as evil may not be done that good may come of it, So muſt we not omit neceſſary duties for fear of bad conſequents, This is in Gods hand and the other is re<g ref="char:EOLhyphen"/>quired at our hands: As it is preſident preſumption to do evil that good may come of it; So it argues both diſobedience to, and diſtruſt of God, to omit duties for fear of conſequents. The Generall Aſſembly knows, there is a difference betwixt a conſequent in reſpect of Order of time and of cauſalitie, The Honour and Free<g ref="char:EOLhyphen"/>dom given by God to our firſt <hi>Parent</hi> in the State of <hi>Innocencie:</hi> As it was not the Cauſe of his abuſe of both which followed in time; So the giving of both was Tree of all blame; Beſides we have declared, we will not put in his hands any ſuch Power whereby Religion or the Covenant may be endangered, 13. <hi>pag. Decla<g ref="char:EOLhyphen"/>ration.</hi>
+            </p>
+            <p>To the branch of the third Article in the firſt inſtance, We anſwer, That breach of Priviledge of Parliament, and prejudice to the liberty of the Subject, ſhould be beſt known to Us, who are both Parliament men, and Subjects ſenſible of our own Libertie: We deſire it to be conſidered, if the Kings Majeſtie ſhould give his conſent to an Ordinance for Toleration of Errours, would not this greatly prejudice Religion? in ſuch a caſe were it not good He had a negative voice? It is well
+<pb n="9" facs="tcp:48721:6"/>known That Ordinance had been paſt into a Law, if his Majeſty had not refuſed it.</p>
+            <p>To the ſecond Inſtance, we grant the Civill power is ſubordinate to the good of Religion, and it is a great ſin in Kings to do otherwiſe, but if Kings fail in Religion, and in all things obey not Chriſts Ordinance, that there<g ref="char:EOLhyphen"/>fore their Subjects are not tied to obedience in things lawfull, Is againſt Scripture, The practiſe of the Jewiſh Church, and the Confeſſions of Faith of all Reformed Churches.</p>
+            <p>To the breach of the fourth Article, We deſire our Anſwer to the ſecond Argument be repeated.</p>
+            <p>To the breach of the fifth Article in taking the Fron<g ref="char:EOLhyphen"/>tier Towns in <hi>England;</hi> We Anſwer, there being a ne<g ref="char:EOLhyphen"/>ceſſitie of engagement in War, as we have ſhown, and having certainly underſtood, that a party of Sectaries, declared Enemies to Religion, King &amp; Kingdoms, were to ſeize upon theſe Towns, the very law of Nature, that in neceſſity teacheth ſelf-preſervation, by laying hold on theſe weapons, whereof Enemies would make uſe for our deſtruction, allows it in ſuch an exigent: As the Kingdom of <hi>England</hi> hath experience of our Fidelity in rendring up to them the Town of <hi>Newcaſtle,</hi> where<g ref="char:EOLhyphen"/>in we ſecured our ſelves for a time, in our firſt Expedi<g ref="char:EOLhyphen"/>tion: So we intend and declare, that after Religion, King, and Kingdoms are ſecured from that prevalent party of Sectaries, we ſhall with the ſame fidelity, ren<g ref="char:EOLhyphen"/>der up theſe Frontier Towns; what we have done con<g ref="char:EOLhyphen"/>ſiſts well with the large Treaty betwixt the Kingdoms, which we intend to keep inviolable on our Parts; That Treatie was with the Kingdom of <hi>England,</hi> but not with Sectaries.</p>
+            <p>Whereas it is inſinuated, the Parliament of <hi>England</hi> hath offered a Treaty, We anſwer, The Parliament and
+<pb n="10" facs="tcp:48721:7"/>Wee who are authoriſed by them are onely Judges, If their Anſwer be ſatisfactory, And the truth is, neither firſt nor laſt have they nor Wee received any ſatisfaction to the neceſſary demands of this Kingdom. Nor ſo much as a Treaty offered to Us thereupon.</p>
+            <p>To the Breach of the 6<hi rend="sup">th</hi>, Article. In our aſſiſting or defending theſe that are not in the Covenant, And that we will by this Engagement ſet our ſelves againſt faith<g ref="char:EOLhyphen"/>ful Covenanters in that Kingdom, who wil never Con<g ref="char:EOLhyphen"/>ſent that the King be brought to or neer <hi>London</hi> with Honour, Freedom, and Safety before he ſecure Religion. To the 1. We Anſwer as before to the ſecond Argument. And with all deſire it be con<g ref="char:EOLhyphen"/>ſidered, That although we be quarrelled for aſſiſt<g ref="char:EOLhyphen"/>ing thoſe that have not taken the Covenant; yet no notice is taken ſo far as we know, in any Church Ju<g ref="char:EOLhyphen"/>dicatory of theſe perfidious Country-men, who have gone to that Army of Sectaries under the Command of <hi>Lambert.</hi> To the ſecond We anſwer, We expect better things of the faithfull Covenanters in <hi>England,</hi> ſeeing the Parliament there in 1647. did invite the King to come to <hi>London</hi> with Honour, Freedom and Safety, which had been performed had they not been over<g ref="char:EOLhyphen"/>awed by the Army.</p>
+            <p>To the ſecond inſtance, for Breach of the 6. Article We anſwer, We divide not from our firſt Principles, but proſecute the ſame Ends of the Covenant, Bare human Aſſertions prove little or nothing, Wee have not withdrawn from any that adhere to publick Principles, But if any walking upon private principles have ſeparate from us, They themſelves know beſt, <hi>they went from us becauſe they were not of us.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:48721:7"/>
+Whereas much is ſpoken anent the probabilitie of light and judgement in the greateſt part of the Miniſters' condemning this Engagement as ſinfull and unlawfull, Wee Anſwer, the Argument is but humane and Popular, and not from Scripture, unleſſe your in<g ref="char:EOLhyphen"/>fallibilitie could be demonſtrated from the Word of God, Such an Argument, if admitted, will prove Im<g ref="char:EOLhyphen"/>plicite Faith, which if we ſhould give to the word of man, were indeed a Breach of our Covenant.</p>
+            <p>Let us alſo offer to your conſiderations our thought anent breach of Covenant if we had not En<g ref="char:EOLhyphen"/>gaged.</p>
+            <p n="1">I. Are Wee not bound by the 1. Article To endeavour the Reformation in Religion in the Kingdoms of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland?</hi> If we ſhould ſit ſtill and behold Sectaries defacing Religion that were far from en<g ref="char:EOLhyphen"/>deavouring a Reformation there.</p>
+            <p n="2">II. Are we not obliged by the 2d. Article To endea<g ref="char:EOLhyphen"/>vour the extirpation of Schiſme and Hereſie? But to fold our hands, and ſleep in ſecurity, while the Evil One ſowes the Tares, Is this to endeavour the extirpation? No, it is to give way to the rooting and ſpreading of Errour.</p>
+            <p n="3">III. In the 3<hi rend="sup">d</hi>. Artile we are obliged to maintain the Priviledges of Parliament and Liberties of the Subjects, as alſo the Kings Perſon, and juſt power in the preſervation, &amp;c. If we ſit ſtill, Is not the Parliament overawed by an Army of Sectaries? And to do nothing, is a virtuall complying with Sectaries, and ſtrengthen<g ref="char:EOLhyphen"/>ing of their hands; Are we not bound according to the explanation in the Aſſembly 1639. to aſſiſt and maintain in every caſe, which may concern His Ho<g ref="char:EOLhyphen"/>nour
+<pb n="12" facs="tcp:48721:8"/>If we do nothing for His Honour, and Relief from that baſe and diſgracefull Impriſonment, Are we not guilty of Breach of Covenant, and of that Duty we owe to our King by our Allegience, which is not weakened but ſtrengthened by the Covenant, as is many times profeſſed in our Declarations?</p>
+            <p n="4">IIII. In the 4<hi rend="sup">th</hi>. Article we are obliged to diſco<g ref="char:EOLhyphen"/>ver, and bring to triall and puniſhment Incendiaries, Malignants, &amp;c. As Malignants have been puniſhed, So, are we not bound to bring Sectaries great hinderers of the work to condigne puniſhment? Our Covenant binds us to endeavour for this.</p>
+            <p n="5">V. In the 5<hi rend="sup">th</hi>. We are bound to preſerve the Peace betwixt the Kingdoms, and to ſet our ſelves againſt the wilfull oppoſers thereof, either it muſt be avowed that the Army of Sectaries is no Enemy to the Peace of theſe United Kingdoms, (which we think none will profeſſe) or it cannot be denied, but we fail, if we oppoſe them not by an Engagement in War, As the Church doth oppoſe them in their Eccleſiaſtick way.</p>
+            <p n="6">VI. In the 6<hi rend="sup">th</hi>. We are bound to defend all that en<g ref="char:EOLhyphen"/>ter into this Covenant, In the purſuing thereof, but if we ſhould lie by, and ſuffer the faithful Covenanters in <hi>England</hi> to be ſtill borne down by that Army of Sectaties, Were not this a Breach of Covenant? Wee deſire theſe things to be conſidered impartially, with<g ref="char:EOLhyphen"/>out prejudice of Self-opinions in judgement, of Self-intereſt in Aſſociation, which are the two moates that hinder the underſtanding, to diſcern Truth in the ſim<g ref="char:EOLhyphen"/>plicitie thereof.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48721:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
